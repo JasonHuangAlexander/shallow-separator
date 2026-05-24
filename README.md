@@ -109,7 +109,7 @@ If you use this code, please cite:
 @article{alexander2025cliqueminor,
   title   = {Large Clique Minors Or Balanced Separators in (Road) Networks: An Experimental Study},
   author  = {Alexander, Jason and Le, Hung},
-  year    = {2025},
+  year    = {2026},
   institution = {University of Massachusetts Amherst}
 }
 ```
